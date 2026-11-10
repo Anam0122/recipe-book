@@ -6,6 +6,7 @@
 - Cashew
 - Walnut
 - Brazil nut
+- Sunflower Seeds
 
 
 ## Instructions
